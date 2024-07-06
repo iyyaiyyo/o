@@ -1,0 +1,79 @@
+#a5,#b5,#c5,#d5,#e5{
+      display: flex;
+      position: relative;
+      
+      margin-left: 5px;
+      margin: 5px 5px 5px 5px;
+
+}
+.button1,.button2,.button3,.button4,.button5,.button6,.button7,.button8,.button9,.button10,.button11,.button12,.button13,.button14,.button15,.button16,.button17{
+      text-decoration: none;
+}
+.bbtn16{
+      position: relative;
+      left: 40px;
+}
+.bbtn15{
+      position: relative;
+      left: 270px;
+}
+.bbtn14{
+      position: relative;
+      left: 260px;
+}
+.bbtn13{
+      position: relative;
+      left: 180px;
+}
+.bbtn12{
+      position: relative;
+      left: 60px;
+}
+.bbtn{
+      position: relative;
+      left: 60px;
+}
+.bbtn1{
+      position: relative;
+      left: 150px;
+}
+.bbtn2{
+      position: relative;
+      left: 250px;
+}
+.bbtn3{
+      position: relative;
+      left: 300px;
+}
+.bbtn4{
+      position: relative;
+      left: 60px;
+}
+.bbtn5{
+      position: relative;
+      left: 180px;
+}
+.bbtn6{
+      position: relative;
+      left: 220px;
+}
+.bbtn7{
+      position: relative;
+      left: 300px;
+}
+.bbtn8{
+      position: relative;
+      left: 60px;
+}
+.bbtn9{
+      position: relative;
+      left: 180px;
+}
+.bbtn10{
+      position: relative;
+      left: 250px;
+}
+.bbtn11{
+      position: relative;
+      left: 300px;
+}
